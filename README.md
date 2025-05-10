@@ -42,7 +42,7 @@ This project analyzes Blinkit's marketing performance by exploring how various m
 
 <br>
 
-### 🧹 Data Preprocessing
+## 🧹 Data Preprocessing
 
 - Explored the dataset using MySQL and prepared it for further analysis.
 - Checked for missing values and modified the date column's data type from text to date,ensuring standardization in data.
